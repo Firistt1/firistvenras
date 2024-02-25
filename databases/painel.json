@@ -1,0 +1,38 @@
+{
+    "10": {
+        "idpainel": "10",
+        "banner": "https://cdn.discordapp.com/attachments/1199919155080597675/1200188595072405556/SistemaVendas.png?ex=65c545bb&is=65b2d0bb&hm=c833d870541ddfcb7058a9444c2d493f29ad914a5ac36c7bb1e8bb36a0a3db29&",
+        "miniatura": "Nenhuma",
+        "titulo": "Testes | Painel",
+        "produtos": [
+            "01"
+        ],
+        "desc": "Sem Descrição",
+        "emoji": "🛒"
+    },
+    "teste": {
+        "idpainel": "teste",
+        "banner": "https://cdn.discordapp.com/attachments/1199753978892800092/1199754017924972604/SistemaVendas.png?ex=65c3b100&is=65b13c00&hm=9f1e59aa8d3ab8fc5f2aa5a6f6ea5a233279455553690a4f89760a0175679961&",
+        "miniatura": "Nenhuma",
+        "titulo": "Ferreira",
+        "produtos": [
+            "teste",
+            "01"
+        ],
+        "desc": "Sem Descrição",
+        "emoji": "🛒",
+        "idmsg": "1200191284132982898",
+        "idcanal": "1199788655762489468"
+    },
+    "085fr": {
+        "idpainel": "085fr",
+        "banner": "https://cdn.discordapp.com/attachments/1199919155080597675/1200188595072405556/SistemaVendas.png?ex=65c545bb&is=65b2d0bb&hm=c833d870541ddfcb7058a9444c2d493f29ad914a5ac36c7bb1e8bb36a0a3db29&",
+        "miniatura": "Nenhuma",
+        "titulo": "Testes | Painel",
+        "produtos": [
+            "01"
+        ],
+        "desc": "Sem Descrição",
+        "emoji": "🛒"
+    }
+}

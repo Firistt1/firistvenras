@@ -1,0 +1,8 @@
+{
+    "token": "Token do seu bot",
+    "prefix": ".",
+    "canalvoz": "Id do canal de voz",
+    "owner": "Id do dono",
+    "cargo":"Cargo",
+    "categoria":"Id da categoria onde os carrinhos serão criados"
+}

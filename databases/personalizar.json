@@ -1,0 +1,20 @@
+{
+    "titulo": "/personalizar",
+    "desc": "#{desc}\n\n🌏 | Nome: ** #{nome} **\n💸 | Preço: ** R$#{preco} **\n📦 | Estoque: ** #{estoque} **",
+    "rodape": "remover",
+    "button": {
+        "text": "Abrir carrinho",
+        "style": 2,
+        "emoji": "🛒"
+    },
+    "backup": {
+        "titulo": "/personalizar | Produto",
+        "desc": "#{desc}\n🌏 | **Nome: __#{nome}__**\n💸 | **Preço: __R$#{preco}__**\n📦 |  **Estoque: __#{estoque}__**",
+        "rodape": "remover",
+        "button": {
+            "text": "Comprar",
+            "style": 3,
+            "emoji": "<:carrinhokx:1183167396274524230>"
+        }
+    }
+}

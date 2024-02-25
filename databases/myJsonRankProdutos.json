@@ -1,0 +1,33 @@
+{
+    "CONTA MISTERIOSA": {
+        "idproduto": "Contas Random 1000+",
+        "vendasfeitas": 10,
+        "valoresganhos": 9
+    },
+    "BOT MENSAL": {
+        "idproduto": "Contas Random 1000+",
+        "vendasfeitas": 1,
+        "valoresganhos": 3
+    },
+    "Sem nome ainda": {
+        "": {
+            "": {
+                "": {
+                    "idproduto": "01",
+                    "vendasfeitas": 7,
+                    "valoresganhos": 31
+                }
+            }
+        }
+    },
+    "Link Nitro Gaming Mensal": {
+        "idproduto": "teste",
+        "vendasfeitas": 13,
+        "valoresganhos": 1.3
+    },
+    "fr": {
+        "idproduto": "teste",
+        "vendasfeitas": 1,
+        "valoresganhos": 0.1
+    }
+}

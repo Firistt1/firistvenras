@@ -1,0 +1,31 @@
+{
+  "name": "unkoynx7",
+  "version": "2.0.0",
+  "description": "Atualizações no bot de vendas automáticas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "unkoynx7",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.13.0",
+    "axios": "^0.27.2",
+    "better-sqlite3": "^8.7.0",
+    "canvas": "^2.11.2",
+    "date-fns": "^2.30.0",
+    "discord.js": "14.11",
+    "fs-constants": "^1.0.0",
+    "imgur": "^2.3.0",
+    "mercadopago": "^1.5.13",
+    "moment": "^2.29.4",
+    "quick.db": "^9.1.7",
+    "quickdb": "^1.0.5",
+    "tar-fs": "^2.1.1",
+    "wio.db": "^4.0.22"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  }
+}
